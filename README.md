@@ -31,7 +31,7 @@ played i.e the card name, the link and the time it was played
 <img src= './Images/img6.PNG'>
 
 ## Live Link
-For Live View Visit: 
+For Live View Visit: https://convintaskwebapp.netlify.app/
 
 ## Run Locally
 
